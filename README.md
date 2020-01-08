@@ -1,3 +1,3 @@
 # hello world
 
-THis is blane's test edits.
+This is blane's test edits.
